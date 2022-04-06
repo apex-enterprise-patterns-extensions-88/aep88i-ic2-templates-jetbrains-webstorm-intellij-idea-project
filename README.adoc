@@ -1,0 +1,73 @@
+= Apex File Templates for Illuminated Cloud 2 depends on AEP88i
+
+Apex File Templates for Illuminated Cloud 2 depending on AEP88i (see Dependencies below) can be shared via Git with team members.
+
+* Illuminated Cloud 2:
+
+https://www.illuminatedcloud.com
+
+* JetBrains IDEs:
+
+https://www.jetbrains.com/idea/
+
+https://www.jetbrains.com/webstorm/
+
+== Dependencies:
+
+=== This set of Templates depends on AEP88i but not AEP as below.
+
+=== AEP
+
+AEP is Apex Enterprise Patterns (fflib) as the repositories below.
+
+https://github.com/apex-enterprise-patterns/fflib-apex-common
+
+https://github.com/apex-enterprise-patterns/fflib-apex-mocks
+
+https://github.com/apex-enterprise-patterns/force-di
+
+https://github.com/apex-enterprise-patterns/at4dx
+
+https://github.com/wimvelzeboer/fflib-apex-extensions
+
+==== AEP88i
+
+AEP should be considered as the first choice and AEP88i as the second choice because AEP88i is a very small set of Apex classes following AEP design concept.
+
+* Domain Layer
+* Trigger Handler (related to Domain Layer)
+* Selector Layer
+
+AEP88i is not depending on AEP. However, AEP88i included fflib_IDGenerator.cls from AEP fflib-apex-mocks.
+
+AEP88i repository is as below.
+
+https://github.com/apex-enterprise-patterns-extensions-88/fflib-apex-88i-independent
+
+== Usage
+
+=== Copy and paste
+
+Copy and paste the following directory and file into your .idea Directry.
+
+* .idea/fileTemplates/*
+* .idea/file.template.settings.xml
+
+=== Switch to Project Scheme
+
+https://www.jetbrains.com/help/idea/2021.3/settings-file-and-code-templates.html
+
+=== Create Apex classes from the templates
+
+Right-click on the classes directory to create the items 1, 2 or 3.
+
+Right-click on the triggers directory to create the items 4.
+
+1. CC0-ApexDomain
+2. CC0-ApexSOQL (depends on CC0-ApexDomain)
+3. CC0-ApexTriggerHandler
+4. CC0-ApexTrigger (depends on CC0-ApexTriggerHandler)
+
+== License
+
+CC0 1.0 Universal

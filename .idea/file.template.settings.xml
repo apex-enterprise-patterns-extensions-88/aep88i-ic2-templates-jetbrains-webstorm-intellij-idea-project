@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="CC0-ApexDomain.cls" reformat="true" live-template-enabled="true">
+        <template name="CC0-ApexDomain.cls.child.0.xml" file-name="${Domain_SObject_Test_Class_Name_eg_AccountDomainTest}.cls-meta" reformat="false" live-template-enabled="false" />
+        <template name="CC0-ApexDomain.cls.child.1.cls" file-name="${Domain_SObject_Test_Class_Name_eg_AccountDomainTest}" reformat="true" live-template-enabled="true" />
+        <template name="CC0-ApexDomain.cls.child.2.xml" file-name="${Domain_SObject_Class_Name_eg_AccountDomain}.cls-meta" reformat="false" live-template-enabled="false" />
+      </template>
+      <template name="CC0-ApexDomain.cls.child.0.xml" file-name="${Domain_SObject_Test_Class_Name_eg_AccountDomainTest}.cls-meta" reformat="false" live-template-enabled="false" />
+      <template name="CC0-ApexDomain.cls.child.1.cls" file-name="${Domain_SObject_Test_Class_Name_eg_AccountDomainTest}" reformat="true" live-template-enabled="true" />
+      <template name="CC0-ApexDomain.cls.child.2.xml" file-name="${Domain_SObject_Class_Name_eg_AccountDomain}.cls-meta" reformat="false" live-template-enabled="false" />
+      <template name="CC0-ApexSOQL.cls" reformat="true" live-template-enabled="true">
+        <template name="CC0-ApexSOQL.cls.child.0.xml" file-name="${Domain_SObject_Test_Class_Name_eg_AccountSOQLTest}.cls-meta" reformat="false" live-template-enabled="false" />
+        <template name="CC0-ApexSOQL.cls.child.1.cls" file-name="${Domain_SObject_Test_Class_Name_eg_AccountSOQLTest}" reformat="true" live-template-enabled="true" />
+        <template name="CC0-ApexSOQL.cls.child.2.xml" file-name="${Domain_SObject_Class_Name_eg_AccountSOQL}.cls-meta" reformat="false" live-template-enabled="false" />
+      </template>
+      <template name="CC0-ApexSOQL.cls.child.0.xml" file-name="${Domain_SObject_Test_Class_Name_eg_AccountSOQLTest}.cls-meta" reformat="false" live-template-enabled="false" />
+      <template name="CC0-ApexSOQL.cls.child.1.cls" file-name="${Domain_SObject_Test_Class_Name_eg_AccountSOQLTest}" reformat="true" live-template-enabled="true" />
+      <template name="CC0-ApexSOQL.cls.child.2.xml" file-name="${Domain_SObject_Class_Name_eg_AccountSOQL}.cls-meta" reformat="false" live-template-enabled="false" />
+      <template name="CC0-ApexTrigger.trigger" reformat="false" live-template-enabled="false">
+        <template name="CC0-ApexTrigger.trigger.child.0.xml" file-name="${Trigger_Name_eg_AccountNewTrigger}.trigger-meta" reformat="false" live-template-enabled="false" />
+      </template>
+      <template name="CC0-ApexTrigger.trigger.child.0.xml" file-name="${Trigger_Name_eg_AccountNewTrigger}.trigger-meta" reformat="false" live-template-enabled="false" />
+      <template name="CC0-ApexTriggerHandler.cls" reformat="true" live-template-enabled="true">
+        <template name="CC0-ApexTriggerHandler.cls.child.2.xml" file-name="${TriggerHandler_Test_Class_Name_eg_AccountNewTriggerHandlerTest}.cls-meta" reformat="false" live-template-enabled="false" />
+        <template name="CC0-ApexTriggerHandler.cls.child.0.cls" file-name="${TriggerHandler_Test_Class_Name_eg_AccountNewTriggerHandlerTest}" reformat="true" live-template-enabled="true" />
+        <template name="CC0-ApexTriggerHandler.cls.child.1.xml" file-name="${TriggerHandler_Class_Name_eg_AccountNewTriggerHandler}.cls-meta" reformat="false" live-template-enabled="false" />
+      </template>
+      <template name="CC0-ApexTriggerHandler.cls.child.0.cls" file-name="${TriggerHandler_Test_Class_Name_eg_AccountNewTriggerHandlerTest}" reformat="true" live-template-enabled="true" />
+      <template name="CC0-ApexTriggerHandler.cls.child.1.xml" file-name="${TriggerHandler_Class_Name_eg_AccountNewTriggerHandler}.cls-meta" reformat="false" live-template-enabled="false" />
+      <template name="CC0-ApexTriggerHandler.cls.child.2.xml" file-name="${TriggerHandler_Test_Class_Name_eg_AccountNewTriggerHandlerTest}.cls-meta" reformat="false" live-template-enabled="false" />
+    </default_templates>
+  </component>
+</project>
